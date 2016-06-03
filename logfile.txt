@@ -1,0 +1,26 @@
+twitter messages capture log
+
+2016-06-03 15:02:55 https://twitter.com/i/streams/stream/692843232867123200 twitter.html 250359
+2016-06-03 15:38:42		twitter.html	
+2016-06-03 15:39:21		twitter.html	0
+2016-06-03 15:47:48	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251410
+2016-06-03 16:05:05	https://twitter.com/search?q=Geography&src=typd	twitter.html	287955
+2016-06-03 16:06:10	https://twitter.com/search?q=Geography&src=typd	twitter.html	276860
+2016-06-03 16:29:55	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 16:30:58	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 16:33:09	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 16:34:01	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 17:31:15	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 17:46:00	https://twitter.com/i/streams/stream/686639666771046409	twitter.html	251757
+2016-06-03 17:47:12	https://twitter.com/i/streams/stream/686639666771046409	twitter.html	251757
+2016-06-03 17:49:58	https://twitter.com/i/streams/stream/686639666779426818	twitter.html	251757
+2016-06-03 18:29:50	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:31:19	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:32:59	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:34:45	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:35:58	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:36:35	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:37:24	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:42:24	https://twitter.com/i/streams/stream/686639666771046409Electric Music	twitter.html	251757
+2016-06-03 18:42:42	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:43:13	https://twitter.com/i/streams/category/686639666779426835	twitter.html	251757

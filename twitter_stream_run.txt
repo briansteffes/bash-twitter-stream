@@ -1,0 +1,170 @@
+Script started on Fri Jun  3 18:41:43 2016
+[?1034hbash-3.2$ bas[K[K[Kdate "+%m"[2Pman datedate "%m"[1Pman datedate "+%m"[Kbash [K[K[K[K[Kbash whatisontwitter.sh 
+[H[2J
+
+Welcome to the twitter web scraping bash script!
+Please select an option to continue:
+	1. Read a Stream
+	2. View a Summary Statistics
+	3. Other
+	4. Exit
+3
+You have chosen 'Other'
+a. View Logfile
+b. View Excluded Words
+c. Add Words to Excluded Words
+d. Remove Words From Excluded Words
+a
+View Logfile
+twitter messages capture log
+
+2016-06-03 15:02:55 https://twitter.com/i/streams/stream/692843232867123200 twitter.html 250359
+2016-06-03 15:38:42		twitter.html	
+2016-06-03 15:39:21		twitter.html	0
+2016-06-03 15:47:48	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251410
+2016-06-03 16:05:05	https://twitter.com/search?q=Geography&src=typd	twitter.html	287955
+2016-06-03 16:06:10	https://twitter.com/search?q=Geography&src=typd	twitter.html	276860
+2016-06-03 16:29:55	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 16:30:58	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 16:33:09	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 16:34:01	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 17:31:15	https://twitter.com/i/streams/stream/692843232867123200	twitter.html	251757
+2016-06-03 17:46:00	https://twitter.com/i/streams/stream/686639666771046409	twitter.html	251757
+2016-06-03 17:47:12	https://twitter.com/i/streams/stream/686639666771046409	twitter.html	251757
+2016-06-03 17:49:58	https://twitter.com/i/streams/stream/686639666779426818	twitter.html	251757
+2016-06-03 18:29:50	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:31:19	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:32:59	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:34:45	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:35:58	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:36:35	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+2016-06-03 18:37:24	https://twitter.com/i/streams/stream/686639666779394056	twitter.html	251757
+	1. Read a Stream
+	2. View a Summary Statistics
+	3. Other
+	4. Exit
+1
+You have chosen to read a twitter stream.
+[H[2J
+Reading a new Twitter Stream:
+Please Choose One of the Following:
+	1. Enter a New Stream
+	2. Examine Previously used Stream
+	3. Return to Main Menu
+2
+Available Streams:
+There are 3 streams to choose from:
+	1. Business & Finance News
+	2. Opinion News
+	3. Weather
+Choose an option by entering the line number:
+3
+Top words           Frequencey          Percentage          
+----------          ----------          ----------          
+	1. Read a Stream
+	2. View a Summary Statistics
+	3. Other
+	4. Exit
+1
+You have chosen to read a twitter stream.
+[H[2J
+Reading a new Twitter Stream:
+Please Choose One of the Following:
+	1. Enter a New Stream
+	2. Examine Previously used Stream
+	3. Return to Main Menu
+2
+Available Streams:
+There are 3 streams to choose from:
+	1. Business & Finance News
+	2. Opinion News
+	3. Weather
+Choose an option by entering the line number:
+1
+Top words           Frequencey          Percentage          
+----------          ----------          ----------          
+ 1. the              10                  0.00%               
+ 2. for              7                   0.00%               
+ 3. to               6                   0.00%               
+ 4. a                5                   0.00%               
+ 5. you              4                   0.00%               
+ 6. in               4                   0.00%               
+ 7. what             3                   0.00%               
+ 8. through          3                   0.00%               
+ 9. on               3                   0.00%               
+10. is               3                   0.00%               
+11. and              3                   0.00%               
+12. your             2                   0.00%               
+13. train            2                   0.00%               
+14. that             2                   0.00%               
+15. how              2                   0.00%               
+16. his              2                   0.00%               
+17. has              2                   0.00%               
+18. economy          2                   0.00%               
+19. deal             2                   0.00%               
+20. US               2                   0.00%               
+	1. Read a Stream
+	2. View a Summary Statistics
+	3. Other
+	4. Exit
+1
+You have chosen to read a twitter stream.
+[H[2J
+Reading a new Twitter Stream:
+Please Choose One of the Following:
+	1. Enter a New Stream
+	2. Examine Previously used Stream
+	3. Return to Main Menu
+1
+Looks like we will be examining a new stream
+Enter Stream Subject:
+*(No Commas)
+Music
+please enter the stream url:
+https://twitter.com/i/streams/category/686639666779426835
+Top words           Frequencey          Percentage          
+----------          ----------          ----------          
+ 1. to               9                   0.00%               
+ 2. the              7                   0.00%               
+ 3. you              5                   0.00%               
+ 4. of               5                   0.00%               
+ 5. this             3                   0.00%               
+ 6. on               3                   0.00%               
+ 7. is               3                   0.00%               
+ 8.                  3                   0.00%               
+ 9. with             2                   0.00%               
+10. we               2                   0.00%               
+11. that             2                   0.00%               
+12. see              2                   0.00%               
+13. premiere         2                   0.00%               
+14. our              2                   0.00%               
+15. new              2                   0.00%               
+16. my               2                   0.00%               
+17. me               2                   0.00%               
+18. in               2                   0.00%               
+19. be               2                   0.00%               
+20. album            2                   0.00%               
+	1. Read a Stream
+	2. View a Summary Statistics
+	3. Other
+	4. Exit
+3
+You have chosen 'Other'
+a. View Logfile
+b. View Excluded Words
+c. Add Words to Excluded Words
+d. Remove Words From Excluded Words
+b
+View Excluded Words
+cat: exluded_words.txt: No such file or directory
+	1. Read a Stream
+	2. View a Summary Statistics
+	3. Other
+	4. Exit
+4
+It appears that you are done using the streaming program.
+Good Bye!
+bash-3.2$ exit
+exit
+
+Script done on Fri Jun  3 18:43:47 2016
